@@ -1,3 +1,5 @@
+# Gatsby basic app w/ CSS Modules Global Styling + run `gatsby develop` and go to '/about-css-modules' to see content
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
